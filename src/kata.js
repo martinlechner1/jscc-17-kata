@@ -1,4 +1,3 @@
-// wrap it at n
 const R = require('ramda');
 
 const formatString = (lineLength, string) => {
